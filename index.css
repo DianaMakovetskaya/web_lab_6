@@ -1,0 +1,4 @@
+#result2,#result3{
+    display: flex;
+    flex-direction: column;
+}
